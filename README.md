@@ -26,5 +26,5 @@ VIPER is a backronym for View, Interactor, Presenter, Entity and Router. It’s 
 - `ViewController` (AKA View)
 - `Router`
 
-## Contact
+## Developed by
 [Natan Grando](https://github.com/natangr)
